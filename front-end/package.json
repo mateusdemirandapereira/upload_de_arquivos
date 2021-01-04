@@ -1,0 +1,16 @@
+{
+    "name": "front-end",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "npx http-server -c-1 --cors public"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {
+        "http-server": "^0.12.3"
+    }
+}
